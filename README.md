@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋, I'm Diptessh, a Front-end Developer determined to become a highly-skilled Web 3 Developer.
 
 <!--
 **diptesshjaiin/diptesshjaiin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
