@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Diptessh, a Front-end Developer determined to become a highly-skilled Smart Contract Developer.
+### Hi there 👋, I'm Diptessh, an aspiring Web 3 Developer.
 - 🔭 I’m currently working on building a Multi-Sig Wallet. 
 - 🌱 I’m currently learning about Gas Optimisation and Design Patterns in Solidity. 
 - 👯 I’m looking to collaborate on Hackathons with passionate builders. 
